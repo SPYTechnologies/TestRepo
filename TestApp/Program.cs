@@ -10,6 +10,8 @@ namespace TestApp
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Welcome to the Console App for GitHub");
+            Console.ReadKey();
         }
     }
 }
